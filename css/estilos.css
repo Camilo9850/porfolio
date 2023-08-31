@@ -99,11 +99,8 @@ p{
     color: #E20000;
     font-weight: 100;
 }
-.active{
-    border-radius: 18px;
-    border: red 1px solid;
-    padding: 5px 10px; 
-}
+
+
 
 .cv{
     background-color: #e20000;
